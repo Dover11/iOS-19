@@ -8,3 +8,5 @@
 ------
 #### Home Screen gallery
 The Home Screen gallery will allow you to select various images to display on your Home Screen, with each cycle you may include widget swaps which will be unique to each Home Screen image.
+#### Home Screen pages
+Home Screen pages can now be shared to other iPhone users as long as they're on iOS 19, Home Screen pages can now be empty.
