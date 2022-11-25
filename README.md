@@ -26,7 +26,7 @@ Siri will now be able to download apps with voice.
 
 ### APK support for iOS 
 ```diff
-! Coming later this year
+! Beta
 ```
 ------
 
