@@ -8,5 +8,7 @@
 ------
 #### Home Screen gallery
 The Home Screen gallery will allow you to select various images to display on your Home Screen, with each cycle you may include widget swaps which will be unique to each Home Screen image.
+#### Home Screen sharing
+You can now share your Home Screen along with its widgets. Touch and hold on your desired Home Screen, click the "+" icon and select share.
 #### Home Screen pages
-Home Screen pages can now be shared, Home Screen pages will no longer be deleted automaticlly if they're empty. Touch and hold on your desired Home Screen, click the "+" icon and select share.
+Home Screen pages will no longer be deleted automaticlly if they're empty, this feature can be disabled. Tap and hold on Home Screen, click "+", "Enable Home Screen automatic deletion".
