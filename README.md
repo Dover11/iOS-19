@@ -25,5 +25,10 @@ Siri's name can now be changed within Settings, Siri & Search.
 Siri will now be able to download apps with voice.
 
 ### APK support for iOS 
+```diff
+! Coming later this year
+```
 ------
+
 <p align="Center">After a lenghty amount of reasearch by the development team here at Apple, we have decided to bring APK support to iPhone.</p>
+
