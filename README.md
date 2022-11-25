@@ -4,5 +4,7 @@
 
 ### Key Features and Enhancements
 
-### Home Sreen
+### Home Screen
 ------
+#### Home Screen gallery
+Similar to the iOS 16 feature, the Home Screen gallery will allow you to customize your Home Screen and make it your own with better widgets, widget customization, overall controll of your Home Screen.
