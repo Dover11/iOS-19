@@ -12,3 +12,5 @@ The Home Screen gallery will allow you to select various images to display on yo
 You can now share your Home Screen along with its widgets. Touch and hold on your desired Home Screen, click the "+" icon and select share.
 #### Home Screen pages
 Home Screen pages will no longer be deleted automaticlly if they're empty, this feature can be disabled. Tap and hold on Home Screen, click "+", "Enable Home Screen automatic deletion".
+#### Home Screen app deletion
+Applications can now be deleted in mass. Tap and hold your Home Screen click the "-" in the corner of the app, select "Select more".
