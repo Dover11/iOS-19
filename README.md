@@ -18,6 +18,6 @@ Applications can now be deleted in mass. Tap and hold your Home Screen click the
 ### Siri
 ------
 ### Siri AI improvements 
-Siri will now be able to perform more sophisticated searches, learn and improve from previous voice imputs.
+Siri will now be able to perform more sophisticated searches, learn and improve voabulary from previous voice imputs.
 ### Siri name change
 Siri's name can now be changed within Settings, Siri & Search.
