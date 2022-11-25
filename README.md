@@ -23,3 +23,5 @@ Siri will now be able to perform more sophisticated searches, learn and improve 
 Siri's name can now be changed within Settings, Siri & Search.
 ### Siri Appstore installations
 Siri will now be able to download apps with voice.
+
+#### APK support for iOS
