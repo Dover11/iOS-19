@@ -30,5 +30,5 @@ Siri will now be able to download apps with voice.
 ```
 ------
 
-<p align="Center">After a lenghty amount of reasearch by the development team here at Apple, we have decided to bring APK support to iPhone.</p>
+<p align="Center">After a lenghty amount of reasearch by the totally real development team at Apple, we have decided to bring APK support to iPhone.</p>
 
