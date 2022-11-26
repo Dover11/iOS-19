@@ -8,18 +8,18 @@
 ### Home Screen
 ------
 #### Home Screen gallery
-The Home Screen gallery will allow you to select various images to display on your Home Screen, with each cycle you may include widget swaps which will be unique to each Home Screen image.
+The Home Screen gallery will allow you to select various images to display on your Home Screen; with each cycle, you may include widget swaps that will be unique to each Home Screen image.
 #### Home Screen sharing
 You can now share your Home Screen along with its widgets. Touch and hold on your desired Home Screen, click the "+" icon and select Share.
 #### Home Screen pages
-Home Screen pages will no longer be deleted automaticlly if they're empty. Tap and hold on Home Screen, click "+", Enable Home Screen automatic deletion.
+Home Screen pages will no longer be deleted automatically if they're empty. Tap and hold on Home Screen, click "+", Enable Home Screen automatic deletion.
 #### Home Screen app deletion
-Applications can now be deleted in mass. Tap and hold your Home Screen click the "-" in the corner of the app, select Select more.
+Applications can now be deleted in mass. Tap and hold your Home Screen, click the "-" in the corner of the app,and Select more.
 
 ### Siri
 ------
 #### Siri AI improvements 
-Siri will now be able to perform more sophisticated searches, learn and improve voabulary from previous voice imputs.
+Siri will now be able to perform more sophisticated searches, learn and improve vocabulary from previous voice inputs.
 #### Siri name change
 Siri's name can now be changed within Settings, Siri & Search.
 #### Siri Appstore installations
@@ -31,10 +31,10 @@ Siri will now be able to download apps with voice.
 ```
 ------
 
-<p align="Center">After a lenghty amount of reasearch by the totally real development team at Apple, we have decided to bring APK support to iPhone, development is still in progress.</p>
+<p align="Center">After a lengthy amount of research by the totally genuine development team at Apple, we have decided to bring APK support to iPhone; development is still in progress.</p>
 
 ### Sideloading
-Due to legal reasons iPhone user's witin the EU will now be able to sideload applications onto their iPhones.
+Due to legal reasons, iPhone user's within the EU will now be able to sideload applications onto their iPhones.
 
 ### RCS
 Limited RCS support has been added to iMessages for images sent by iPhone.
