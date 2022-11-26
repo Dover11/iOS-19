@@ -43,4 +43,4 @@ Limited RCS support has been added to iMessages for images sent by iPhone.
 
 <h3 align="Center"> iOS 19 brings improved security to your iOS devices </h3> 
 
-iOS 19 adds MTE to Arm64e based SOC's 
+<p align"Center"> iOS 19 adds MTE to Arm64e based SOC's </p>
