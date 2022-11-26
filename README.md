@@ -38,3 +38,7 @@ Due to legal reasons iPhone user's witin the EU will now be able to sideload app
 
 ### RCS
 Limited RCS support has been added to iMessages for images sent by iPhone.
+
+------
+
+<h3 align="Center"> iOS 19 brings improved security to your iOS devices </h3> 
