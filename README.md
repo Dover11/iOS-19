@@ -31,5 +31,10 @@ Siri will now be able to download apps with voice.
 ```
 ------
 
-<p align="Center">After a lenghty amount of reasearch by the totally real development team at Apple, we have decided to bring APK support to iPhone.</p>
+<p align="Center">After a lenghty amount of reasearch by the totally real development team at Apple, we have decided to bring APK support to iPhone, development is still in progress.</p>
 
+### Sideloading
+Due to legal reasons iPhone user's witin the EU will now be able to sideload applications onto their iPhones.
+
+### RCS
+Limited RCS support has been added to iMessages for images sent by iPhone.
