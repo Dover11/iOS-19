@@ -22,7 +22,7 @@ Applications can now be deleted in mass. Tap and hold your Home Screen, click th
 Siri will now be able to perform more sophisticated searches, learn and improve vocabulary from previous voice inputs.
 #### Siri name change
 Siri's name can now be changed within Settings, Siri & Search.
-#### Siri Appstore installations
+#### Siri App Store installations
 Siri will now be able to download apps with voice.
 
 ### APK support for iOS 
