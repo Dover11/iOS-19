@@ -45,3 +45,7 @@ Limited RCS support has been added to iMessages for images sent by iPhone.
 
 <p align="Center"> iOS 19 adds MTE to Arm64e based SOCs, and various other security enhancing features such as patching the t3sticle exploit </p>
 
+------
+
+### IOS Battery Sharing
+The wait has ended for the new IOS Battery Sharing feature, Multiple tests and endless hours of research has been put in to finding a way of how to share battery health from one phone to another. The new IOS 19 allows people to share battery health with friends and family, This is all a wireless procedure and can be done via WIFI.
